@@ -12,6 +12,7 @@ body {
     background: url('Images/download.jpg') no-repeat;
     background-size: cover;
     background-position: center;
+    margin-bottom: 100px;
 }
 .wrapper {
     width: 420px;
@@ -96,6 +97,23 @@ font-weight: 600;
 .register-link p a:hover {
     text-decoration: underline;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
